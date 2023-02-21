@@ -1,0 +1,7 @@
+
+.selectedToDel{
+    opacity: 0.5 !important;
+    border-width: 2px !important;
+    border-style: solid !important;
+    border-color: red !important;
+}
